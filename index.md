@@ -75,4 +75,4 @@ _Hope you like the story_
 
 | Seeds        | Plants            | Vegetables |
 |:-------------|:------------------|:------|
-|![alt](assets/images/chilli.jpeg)       |![alt](assets/images/tomato.jpeg) | C  |
+|![alt](assets/images/chilli.svg)       |![alt](assets/images/tomato.svg) | C  |
