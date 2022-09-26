@@ -200,16 +200,19 @@ code.highlighter-rouge {
 table {
   width: 100%;
   margin: 0 0 20px 0;
+  border: 1px solid black;
 }
 
 th {
   text-align: left;
   border-bottom: 1px dashed #b5e853;
   padding: 5px 10px;
+  
 }
 
 td {
   padding: 5px 10px;
+   border-bottom: 1px #df200f;
 }
 
 hr {
