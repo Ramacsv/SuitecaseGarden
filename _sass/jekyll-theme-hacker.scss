@@ -211,11 +211,12 @@ th {
 }
 tr {
   padding: 5px 10px;
-   border-bottom: 1px #df200f;
+ //  border-bottom: 1px #df200f;
+  border-bottom: 1px solid black;
 }
 td {
   padding: 5px 10px;
-   border-bottom: 1px #ffffff;
+   border-bottom: 1px solid black;
 }
 
 hr {
