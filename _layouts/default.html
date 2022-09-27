@@ -39,7 +39,7 @@
         {% if site.logo %}
           <h1> <img src="{{site.logo | relative_url}}" alt="Logo" /></h1>
         {% endif %}
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1> <img src="{{site.logo | relative_url}}" alt="Logo"{{ site.title | default: site.github.repository_name }}</h1>
           <h1 > <img src="assets/images/pepper.svg"> Black Pepper </h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
        <table>
