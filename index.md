@@ -76,9 +76,7 @@ _Hope you like the story_
 
 ### Appreciate you visiting my page. 
 
-### **Thank you.** 
-
 ### **The End**
 
 
-
+### **Thank you.** 
