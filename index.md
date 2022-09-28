@@ -1,6 +1,6 @@
 
 
-## Suitecase Garden  in Garden Island
+## Suitecase's Garden  in Garden Island
 
 **_Suitecase is vacationing in garden island. (As you know he lives in the sky on many islands)._**
 
@@ -14,6 +14,15 @@ _Because he needs correct supplies to grow._
 _The supplies are different seeds, special fertilizers, special soil._
 
 _So to travel he built car named it SonicFlyer._
+
+### My Sonic Flyer Modes
+
+| Air Mode       | Sea Mode            | Land Mode |
+|:-------------|:------------------|:------|
+|![alt](assets/images/airmode.svg)   "Air"    |![alt](assets/images/seamode1.svg)"Sea" | ![alt](assets/images/landmode.svg) "Land" |
+
+<b>Drawing by ramacsv - SuiteCase's Friend</b>
+<hr style="border-bottom:3px solid red">
 
 _The car has modes. There is a tree mode, flying mode, sail mode, and glide mode._
 
@@ -68,11 +77,9 @@ _Hope you like the story_
 
 ### Appreciate you visiting my page. 
 
-### **Thank you. The End**
+### **Thank you.** 
+
+### **The End**
 
 
-###### My List
 
-| Seeds        | Plants            | Vegetables |
-|:-------------|:------------------|:------|
-|![alt](assets/images/chilli.svg)       |![alt](assets/images/tomato.svg) | C  |
