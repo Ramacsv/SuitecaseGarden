@@ -18,7 +18,13 @@ _So to travel he built car named it SonicFlyer._
 ### My SonicFlyer Modes
 | Air Mode          | Sea Mode            | Land Mode |
 |:-------------|:------------------|:------|
-|![alt](assets/images/airmode.svg)   "Air"    |![alt](assets/images/seamode1.svg)"Sea" | ![alt](assets/images/landmode.svg) "Land" |
+|    |  |
+
+
+
+| Air Mode        | Sea Mode          | Land Mode |
+|:-------------|:------------------|:------|
+| ![alt](assets/images/airmode.svg) "Air" |![alt](assets/images/seamode1.svg) "Sea" | ![alt](assets/images/landmode.svg) "Land"|
 
 <b>Drawing by ramacsv - SuiteCase's Friend</b>
 <hr style="border-bottom:3px solid red">
