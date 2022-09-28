@@ -26,8 +26,8 @@ body {
 
 //currently used   background:  url("../images/bkgAAA.svg") 0 0, linear-gradient(135deg, #3aa7fd 50%, #efa4ed  0) ;
  // background:   linear-gradient(#00ad24, #3aa7fd 50%, #0289f2  0) ;
-  background:   linear-gradient(180deg, #ffffff,  #81daff, #b1ffc8 ) ;
-  
+//  background:   linear-gradient(180deg, #ffffff,  #81daff, #b1ffc8 ) ; //existing to revert
+  background:  url("../images/vegetableA.svg") 0 0, linear-gradient(135deg, #3aa7fd 50%, #efa4ed  0) ;
   //violet flowers url("../images/rosesEXp.svg") 0 0 no-repeat,
 // background:   url("../images/rosesEXp.svg") 10px 20px/50px 50px no-repeat, url("../images/bkgA .png") 0 0;
   color: $body-foreground;
