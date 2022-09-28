@@ -33,6 +33,10 @@ _After landing he changed the mode to road and drive._
 
 _First he went to India to get tropical different  vegetable seeds_
 
+| India        |
+|:-------------|
+| ![alt](assets/images/airmode.svg) "Air" |
+
 _Peas, types of dry beans, corn, gourd, squash, cucumber, red and green chili peppers, cumin, black pepper, fenugreek,mustard, sesame, root vegetables._
 
 _Next he went to Africa to get cocoa seeds that is used to make coco and chocolate._
