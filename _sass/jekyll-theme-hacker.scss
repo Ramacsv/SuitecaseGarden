@@ -3,8 +3,11 @@
 
 $body-background: $cod-grey !default;
 //$body-foreground: $gallery !default;
-$body-foreground: #ffffff !default;
-$header: $conifer !default;
+//$body-foreground: #ffffff !default;
+$body-foreground: #02a441;
+ // $header: $conifer !default;
+
+$header: #1f00eb; //kind of blue
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
@@ -18,10 +21,9 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
- background: $body-background url("../images/bkg.png") 0 0; //original
-// background: $body-background url("../images/bkgAAA.svg") 0 0; 
+
 //  background: $body-background url("../images/bkgAAA.svg") 0 0, linear-gradient(135deg, #6ec575 0, #3b8686 100%);
-//   background:  linear-gradient(135deg, #6ec575 0, #3b8686 100%), url("../images/bkgAAA.svg") 0 0 ; #6ec575
+
 //currently used   background:  url("../images/bkgAAA.svg") 0 0, linear-gradient(135deg, #3aa7fd 50%, #efa4ed  0) ;
  // background:   linear-gradient(#00ad24, #3aa7fd 50%, #0289f2  0) ;
   background:   linear-gradient(#ffffff, #3aa7fd 50%, #0289f2  0) ;
