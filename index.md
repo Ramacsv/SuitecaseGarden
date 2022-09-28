@@ -15,9 +15,8 @@ _The supplies are different seeds, special fertilizers, special soil._
 
 _So to travel he built car named it SonicFlyer._
 
-### My Sonic Flyer Modes
-
-| Air Mode       | Sea Mode            | Land Mode |
+### My SonicFlyer Modes
+| Air Mode          | Sea Mode            | Land Mode |
 |:-------------|:------------------|:------|
 |![alt](assets/images/airmode.svg)   "Air"    |![alt](assets/images/seamode1.svg)"Sea" | ![alt](assets/images/landmode.svg) "Land" |
 
