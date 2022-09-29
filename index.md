@@ -65,7 +65,7 @@ _There he got grape seeds and soil._
 
 | Europe       |
 |:-------------|
-| ![alt](assets/images/africa.svg) Europe |
+| ![alt](assets/images/europe.svg) Europe |
 
 _His car was getting full so he switched the mode to flying and flew back to garden island with all the supplies._
 
