@@ -212,20 +212,20 @@ table {
 th {
   text-align: left;
   border-bottom: 1px dashed #b5e853;
- // padding: 5px 10px;
- padding: 5px 5px;
+  padding: 5px 10px;
+// padding: 5px 5px;
   
 }
 tr {
-//  padding: 5px 10px;
- padding: 3px 5px;
+ padding: 5px 10px;
+// padding: 3px 5px;
  //  border-bottom: 1px #df200f;
   border: 1px solid #df200f;
 }
 td {
   color: red; //to set text color?
- padding: 3px 3px 3px 3px;
- //  padding: 5px 10px; //original
+ //padding: 3px 3px 3px 3px;
+  padding: 5px 10px; //original
 //   border: 1px  #df200f;
  border: 1px solid red;
 }
