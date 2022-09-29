@@ -36,9 +36,8 @@ _First he went to India to get tropical different  vegetable seeds_
 _First he went to India to get tropical different  vegetable seeds_
 
 
-| India        |
-|:-------------|
-| ![alt](assets/images/India.svg) India |
+#### India  
+![alt](assets/images/India.svg "India")
 
 
 _Peas, types of dry beans, corn, gourd, squash, cucumber, red and green chili peppers, cumin, black pepper, fenugreek,mustard, sesame, root vegetables._
@@ -55,17 +54,15 @@ _He got shea seeds to make shea butter for healing lotions._
 
 _Next stop was South America. Got some good fertilizer._
 
-| South America -Cocoa Fertilizer       |
-|:-------------|
-| ![alt](assets/images/southAmerica.svg) South America |
+#### South America -Cocoa Fertilizer
+![alt](assets/images/southAmerica.svg "South America")
 
 _He switched his car to mode to sail and sailed to Europe._
 
 _There he got grape seeds and soil._
 
-| Europe       |
-|:-------------|
-| ![alt](assets/images/europe.svg) Europe |
+#### Europe       
+![alt](assets/images/europe.svg "Europe")
 
 _His car was getting full so he switched the mode to flying and flew back to garden island with all the supplies._
 
